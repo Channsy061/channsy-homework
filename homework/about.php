@@ -77,6 +77,12 @@
                     <a href="#" title="tumblr"><i class="fa fa-tumblr-square" style="font-size:36px; color:gold"></i></a>
                 </td>
             </tr>
+            <tr>
+                <th>Map</th>
+                <td>
+                <iframe src="https://www.google.com/maps/embed?pb=" width="800" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>>  
+                </td>
+            </tr>
         </table>
     </div>
    

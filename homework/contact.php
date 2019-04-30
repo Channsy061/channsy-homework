@@ -41,8 +41,9 @@ input[type=submit]:hover {
 </head>
 <body>
 <?php include('header.php'); ?>
-    <div class="container mt-3" >
+    <div class="container " >
         <div id="content">
+            <h2 class="pb-5 pt-3">Contact Us Form</h2>
             <form action="/action_page.php">
                 <label for="fname">First Name</label>
                 <input type="text" id="fname" name="firstname" placeholder="Your name..">

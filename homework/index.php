@@ -84,13 +84,13 @@
 
         <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="image/pic3.jpg" alt="Los Angeles" width="100%" height="330px">
+            <img src="image/pic3.jpg" alt="Los Angeles" width="100%" height="250px">
         </div>
         <div class="carousel-item">
-            <img src="image/pic4.jpg" alt="Chicago" width="100%" height="330px">
+            <img src="image/pic4.jpg" alt="Chicago" width="100%" height="250px">
         </div>
         <div class="carousel-item">
-            <img src="image/pic5.jpg" alt="New York" width="100%" height="330px">
+            <img src="image/pic5.jpg" alt="New York" width="100%" height="250px">
         </div>
         </div>
 

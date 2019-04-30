@@ -30,9 +30,9 @@
       <div class="col-md-6 col-lg-7 text-center text-md-right">
 
        
-        <a href="#" class="text pr-2">Home</a>|
-        <a href="#" class="text pr-2">About Us<a>|
-        <a href="#" class="text pr-2">Contact Us</a>
+        <a href="index.php" class="text pr-2">Home</a>|
+        <a href="about.php" class="text pr-2">About Us<a>|
+        <a href="contact.php" class="text pr-2">Contact Us</a>
         
       </div>
      
