@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Bootstrap Example</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-  <style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 300px;
@@ -67,7 +56,7 @@ h2
     <div class="row">
         <div class="col-lg-8">
             <div class="row">
-                <div class="col-md-4 col-sm-12">
+                <div class="col-md-4 col-sm-6">
                     <a href="product_detail.php">
                         <div class="card">
                             <div class="card-body">
@@ -80,7 +69,7 @@ h2
                         </div>
                     </a>
                 </div>
-                <div class="col-md-4 col-sm-12">
+                <div class="col-md-4 col-sm-6">
                     <a href="product_detail.php">
                         <div class="card">
                             <div class="card-body">
@@ -93,7 +82,7 @@ h2
                         </div>
                     </a>
                 </div>
-                <div class="col-md-4 col-sm-15">
+                <div class="col-md-4 col-sm-6">
                     <a href="product_detail.php">
                         <div class="card">
                             <div class="card-body">
@@ -106,7 +95,7 @@ h2
                         </div>
                     </a>
                 </div>
-                <div class="col-md-4 col-sm-12">
+                <div class="col-md-4 col-sm-6">
                     <a href="product_detail.php">
                         <div class="card">
                             <div class="card-body">
@@ -119,7 +108,7 @@ h2
                         </div>
                     </a>
                 </div>
-                <div class="col-md-4 col-sm-12">
+                <div class="col-md-4 col-sm-6">
                     <a href="product_detail.php">
                         <div class="card">
                             <div class="card-body">
@@ -132,7 +121,7 @@ h2
                         </div>
                     </a>
                 </div>
-                <div class="col-md-4 col-sm-12">
+                <div class="col-md-4 col-sm-6">
                     <a href="product_detail.php">
                         <div class="card">
                             <div class="card-body">
@@ -148,7 +137,7 @@ h2
             
             </div>
     
-            <ul class="pagination d-flex justify-content-center">
+            <ul class="pagination d-flex justify-content-center mt-5">
                  <li class="page-item"><a class="page-link" href="#">Previous</a></li>
                 <li class="page-item"><a class="page-link" href="#">1</a></li>
                 <li class="page-item active"><a class="page-link" href="#">2</a></li>
@@ -181,9 +170,7 @@ h2
                             <i class="fa fa-arrow-right pr-3" style="font-size:24px "></i>MENS DRESS SHIRTS<br>
                             <i class="fa fa-arrow-right pr-3" style="font-size:24px "></i>MENS DRESS SHIRTS<br>
                             <i class="fa fa-arrow-right pr-3" style="font-size:24px "></i>MENS DRESS SHIRTS<br>
-                            <i class="fa fa-arrow-right pr-3" style="font-size:24px "></i>MENS DRESS SHIRTS<br>
-                            <i class="fa fa-arrow-right pr-3" style="font-size:24px "></i>MENS DRESS SHIRTS<br>
-                            <i class="fa fa-arrow-right pr-3" style="font-size:24px "></i>MENS DRESS SHIRTS<br>
+                           
                         </div>
                     </div>
                 </div>
@@ -201,5 +188,4 @@ h2
     </div>    
 </div>
 <?php include('footer.php'); ?>
-</body>
-</html>
+

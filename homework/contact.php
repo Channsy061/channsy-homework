@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
 <style>
 
 
@@ -60,10 +54,9 @@ input[type=submit]:hover {
 
                 <label for="subject">Subject</label>
                 <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea> 
-                <input type="submit" value="Submit">
+                <input class="mt-3" type="submit" value="Submit">
             </form>
         </div>
     </div>
 <?php include('footer.php') ;?>
-</body>
-</html>
+
